@@ -1,3 +1,155 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <title>All About Max Verstappen</title>
+  <meta name="description" content="An informational webpage about Formula 1 driver Max Verstappen and his career.">
+  <meta name="keywords" content="Max Verstappen, F1, Formula One, Red Bull Racing">
+  <meta name="author" content="Cheyenne Navarre">
+
+  <!-- Google Custom Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;600&display=swap" rel="stylesheet">
+
+  <!-- WebLab HTML Assignment by Cheyenne Navarre -->
+
+  <style>
+    /* Global Style */
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: 'Rajdhani', sans-serif;
+      margin: 0;
+    }
+
+    /* Navigation Bar */
+    nav {
+      background-color: #ff3c00;
+      padding: 10px;
+      text-align: center;
+      position: sticky;
+      top: 0;
+    }
+
+    nav a {
+      text-decoration: none; /* remove underline */
+      color: #000;
+      font-weight: bold;
+      margin: 0 15px;
+      transition: 0.3s;
+    }
+
+    /* Hover Effect = New CSS Property */
+    nav a:hover {
+      color: #fff;
+      text-shadow: 0px 0px 10px #ffff00; /* glow */
+    }
+
+    /* Headings styled as selector */
+    h1, h2, h3, h4, h5, h6 {
+      color: #ff3c00;
+      text-transform: uppercase;
+    }
+
+    /* Paragraph styled as selector */
+    p {
+      font-size: 18px;
+      line-height: 1.4;
+    }
+
+    /* Required Classes */
+    .hero-text {
+      font-size: 22px;
+      font-weight: bold;
+    }
+
+    .wins-list {
+      background: #111;
+      padding: 10px;
+      border-left: 4px solid #ff3c00;
+    }
+
+    .gallery-img {
+      width: 300px;
+      border-radius: 10px;
+      border: 3px solid #ff3c00;
+      margin: 10px;
+      transition: transform 0.3s;
+    }
+
+    .gallery-img:hover {
+      transform: scale(1.05);
+    }
+
+    /* Gallery layout */
+    .gallery-container {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      padding: 20px;
+      background: #111;
+    }
+  </style>
+
+</head>
+<body>
+
+  <!-- Navigation Links -->
+  <nav>
+    <a href="#life">Early Life</a>
+    <a href="#fame">Rise to Fame</a>
+    <a href="#wins">Famous Wins</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#about">About</a>
+  </nav>
+
+  <h1>The Life and Career of Max Verstappen</h1>
+  <p class="hero-text">Max Verstappen is a four-time Formula 1 World Champion representing Red Bull Racing.</p>
+
+  <h2 id="life">Early Life and Career</h2>
+  <p>Max Verstappen was born... (same text you already had)</p>
+
+  <h3 id="fame">Max's Rise to Fame</h3>
+  <p>After success in junior categories... (same text you already had)</p>
+
+  <h3 id="wins">Most Famous Wins</h3>
+  <ol class="wins-list">
+    <li>2016 Spanish Grand Prix – Youngest winner ever</li>
+    <li>2019 Austrian Grand Prix – Home race comeback</li>
+    <li>2020 70th Anniversary GP – Strategy masterclass</li>
+    <li>2021 Monaco Grand Prix – First Monaco victory</li>
+    <li>2021 Dutch Grand Prix – Home domination</li>
+    <li>2021 Abu Dhabi – First World Title</li>
+    <li>2022 Belgian Grand Prix – Won from P14</li>
+    <li>2023 Dutch Grand Prix – Ninth straight win</li>
+    <li>2024 Brazilian Grand Prix – Mixed-condition masterclass</li>
+  </ol>
+
+  <h4>Media Backlash</h4>
+  <ul>
+    <li>Aggressive driving</li>
+    <li>Clashes with rivals</li>
+    <li>Abu Dhabi controversy</li>
+    <li>Bold media comments</li>
+  </ul>
+
+  <h5 id="gallery">Gallery</h5>
+  <div class="gallery-container">
+    <img class="gallery-img" src="https://images.ctfassets.net/5r7zo32fsl1w/4i5jhuWn8GAGIk7dxwfWLU/6410af0b7fdcb5d19de92e7f2d7db3ba/Max_Verstappen_-_Red_Bull.jpg" alt="Max Verstappen at Red Bull">
+    <img class="gallery-img" src="https://www.formula1.com/content/fom-website/en/drivers/max-verstappen/_jcr_content/root/responsivegrid/media_container/media0.coreimg.jpeg/1709057514343-max-verstappen.png" alt="Official F1 Max Verstappen image">
+    <img class="gallery-img" src="https://cdn-9.motorsport.com/images/mgl/yK7WO7ZY/s6/max-verstappen-red-bull-racing.jpg" alt="Max Verstappen racing">
+  </div>
+
+  <h6 id="about">About Me</h6>
+  <footer>
+    <p>Author Info: Cheyenne Navarre — Sophomore Management and Entrepreneurship Major at UM. Huge Max
+      Verstappen fan studying in Web Lab.</p>
+  </footer>
+
+</body>
+</html>
