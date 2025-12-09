@@ -1,41 +1,66 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>All about Max Verstappen</title>
-     <meta name="description" content=" An informational webpage about Formula 1 driver Max Verstappen and his career."> 
-     <meta name="keywords" content= " Max Verstappen, F1, Mad Max, Formula One, Verstappen"> 
-    <meta name="author" content="Cheyenne Navarre">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>All about Max Verstappen</title>
+  <meta name="description" content="An informational webpage about Formula 1 driver Max Verstappen and his career.">
+  <meta name="keywords" content="Max Verstappen, F1, Mad Max, Formula One, Verstappen">
+  <meta name="author" content="Cheyenne Navarre">
+  <!-- WebLab HTML Assignment by Cheyenne Navarre -->
+</head>
+
 <body>
-    <h1>The Life and Career of Max Verstappen</h1>
-    <p>Max Verstappen is a four-time Formula 1 World Champion from the Netherlands and Belgium, racing for Red Bull Racing.</p>
-    <h2>Early Life and Career</h2>
-<p> Max Verstappen was born on September 30, 1997, in Hasselt, Belgium, to a family deeply rooted in motorsport. His father, Jos Verstappen, was a former Formula 1 driver, while his mother, Sophie Kumpen, was a successful kart racer. Growing up in a racing-focused environment, Max was introduced to karting at a very young age and quickly showed exceptional talent behind the wheel.</p>
-    <h3>Max's Coming to Fame</h3>
-    <p>Max Verstappen’s rise to fame in Formula 1 was nothing short of meteoric. After impressing in the junior racing categories, he made headlines in 2015 when he debuted with Scuderia Toro Rosso at just 17 years old, becoming the youngest driver in F1 history. His raw talent, fearless overtakes, and mature racecraft quickly caught the attention of fans and teams alike. In 2016, he was promoted mid-season to Red Bull Racing, where he made an immediate impact by winning his very first race with the team at the Spanish Grand Prix—making him the youngest race winner in F1 history. From that point on, Verstappen became one of the sport’s most exciting and talked-about drivers, with his aggressive driving style, fierce competitiveness, and consistent performances propelling him into the spotlight as a future world champion.</p>
-    <h3>Most Famous Wins</h3>
-    <ol>
-      <li>1.2016 Spanish Grand Prix – Barcelona:Verstappen’s first-ever F1 victory came in his debut race for Red Bull Racing. At just 18 years old, he became the youngest race winner in F1 history, making headlines worldwide.</li>
-      <li>2.2019 Austrian Grand Prix – Red Bull Ring:After a slow start, Verstappen staged a thrilling comeback, overtaking Charles Leclerc in the final laps. It was a dramatic and emotional win at Red Bull’s home track.</li>
-      <li>3.2020 70th Anniversary Grand Prix – Silverstone:A smart tire strategy helped Verstappen beat the dominant Mercedes cars, ending their winning streak in the 2020 season.</li>
-      <li>4.2021 Monaco Grand Prix – Monte Carlo:Verstappen won the prestigious Monaco Grand Prix for the first time, taking the championship lead for the first time in his career.</li>
-      <li>5.2021 Dutch Grand Prix – Zandvoort:In front of a roaring home crowd, Verstappen won his home Grand Prix, becoming the first Dutch driver to win at Zandvoort.</li>
-      <li>6.2021 Abu Dhabi Grand Prix – Yas Marina:One of the most controversial and dramatic races in F1 history. Verstappen passed Lewis Hamilton on the final lap to win his first World Championship.</li>
-      <li>7.2022 Belgian Grand Prix – Spa-Francorchamps:Starting 14th due to engine penalties, Verstappen charged through the field and won by a wide margin, showcasing sheer dominance.</li>
-      <li>8.2023 Dutch Grand Prix – Zandvoort:Verstappen claimed his ninth consecutive win, tying Sebastian Vettel’s record and thrilling his home crowd once again.</li>
-      <li>9.2024 Brazilian Grand Prix – Interlagos:In challenging weather conditions, Verstappen delivered a flawless performance, securing another dominant win and reinforcing his legacy as one of F1’s all-time greats.</li>
-    </ol>
-    <h4>Media Backlash Surrounding Max's Success</h4>
-    <ul>
-      <li>Agressive driving style</li>
-      <li>Clashes with other drivers</li>
-      <li>2021 Abu Dhabi Grand Prix controversy</li>
-      <li>Comments in the media</li>
-    </ul>
-    <h5>Gallery</h5>
-    <img>https://www.motorsport.com/driver/max-verstappen/17529/</img>
-    <img>https://www.google.com/search?sca_esv=e7a1bb563c1b170c&rlz=1C9BKJA_enFR1073FR1073&hl=en-GB&sxsrf=AE3TifPO6MAlMQ7KScpI1NwVJxFnrbYoqw:1756605298158&udm=2&fbs=AIIjpHwdlVWI4oi2g38E8_BbusNmV4N_PDMDZa8kD6jzfAqHH_e2wpq3bNF0nim2pM6iwiLBsRpu_vJKN9DQIghbgChYdDN5IzjqLxXcOWp5FVrxXCmtGuI41D2lRFt4GI-WPcwsVjh8FpSBzrQAhNn-q2E4HOdqguLVwh7H7p5fkt52t4K2MAiPBDd_yznbQtC3RdAjy_8XVqnJJMdYowR4IoE37O-FxOsLvo-sk450XB06jUAAuWE&q=max+verstappen%C2%A0&sa=X&ved=2ahUKEwjTt7rW-LOPAxV3QzABHTiwFtAQtKgLegQIERAB&biw=1366&bih=875&dpr=2#sv=CAMS_AQa2gQKjAIKuQEStgEKd0FMa3RfdkZ4Qy1UWUp1RXZjOVhOaldnMFpxNGh2V3Jzdmkxbi0yNHhPaFp5TlZXeWFrSmVQd2U1aXJTcDJEelR3MEJuMHlTMVotRnlIWC04WU9wcGtRMThVT3RYOWdQb1NLenJKYk53dnMwUjY0OGF6VUVyR2xjEhdjNnV6YUo3OUZhU1h3YmtQb2JuOHFBOBoiQUZNQUdHcUhrS3EzOEFFTjMzOEZFbjhac25xcFViLXZSURIDODQ5GgEzIhUKAXESEG1heCB2ZXJzdGFwcGVuwqAiBwoDdGJzEgAiJgoEZXFsZBIeQ2dJSUFCQUFPZ1FJQVJBQVZjZkgzVDV0VGhUQ1BnErYCCs8BEswBCowBQUxrdF92RWdqdUhZNkZGa293QVlWenlQMlczc1Jjd1ZnaWZidHdBbUhqY2YwS2dwbldqUzlfLUZOVnUtSWFGbmQ4MVJ3YVpvRjRyYWxFSWlJSnBYeFpPbGVKS1dtaFNCcU1Vc3Jrdk5mMmkzV0pGY1lXOEZBdTFVT25fM05URXl2cnNRLV9BRWVtUEESF2M2dXphSjc5RmFTWHdia1BvYm44cUE4GiJBRk1BR0dvR2VPcjRhUjVHcWNEc2U3QmVZVUNnTHdrOUpBEgQ0Njk4GgEzIhgKBmltZ2RpaRIObFNkd3hLMFdja3M3dk0iFwoFZG9jaWQSDjNKcWRaZUxOdGc0VVBNIiYKBGVxbGQSHkNnSUlBQkFBT2dRSUFSQUFWY2ZIM1Q1dFRoVENQZyoQZS1sU2R3eEswV2Nrczd2TSAEKhcKAXMSEGUtbFNkd3hLMFdja3M3dk0YATABQAAYByCRsJqqBjABSgoIAhACGAIgAigC</img>
-    <img>https://www.google.com/search?sca_esv=e7a1bb563c1b170c&rlz=1C9BKJA_enFR1073FR1073&hl=en-GB&sxsrf=AE3TifPO6MAlMQ7KScpI1NwVJxFnrbYoqw:1756605298158&udm=2&fbs=AIIjpHwdlVWI4oi2g38E8_BbusNmV4N_PDMDZa8kD6jzfAqHH_e2wpq3bNF0nim2pM6iwiLBsRpu_vJKN9DQIghbgChYdDN5IzjqLxXcOWp5FVrxXCmtGuI41D2lRFt4GI-WPcwsVjh8FpSBzrQAhNn-q2E4HOdqguLVwh7H7p5fkt52t4K2MAiPBDd_yznbQtC3RdAjy_8XVqnJJMdYowR4IoE37O-FxOsLvo-sk450XB06jUAAuWE&q=max+verstappen%C2%A0&sa=X&ved=2ahUKEwjTt7rW-LOPAxV3QzABHTiwFtAQtKgLegQIERAB&biw=1366&bih=875&dpr=2#sv=CAMS_AQa2gQKjAIKuQEStgEKd0FMa3RfdkhiQlRLNVBRN2YzaGtYVVpVZnNpWXBiWWlTX2FsOVhnZ2dnVXRwWXkzblNzc01CMWRQZzJ4dkx1YlU4dnRkWmRGMm50RHpCREhkUndBQjdFdmt3eERpYXpVaTliT2tHQ2RwSVBTUmJGWVZxcVI0aWlBEhdjNnV6YUo3OUZhU1h3YmtQb2JuOHFBOBoiQUZNQUdHcmFqcVNBX2ZXR183S3BrMjQ5MXJUX2JCbm5qZxIDODQ5GgEzIhUKAXESEG1heCB2ZXJzdGFwcGVuwqAiBwoDdGJzEgAiJgoEZXFsZBIeQ2dJSUFCQUFPZ1FJQVJBQVZjZkgzVDV0VGhUQ1BnErYCCs8BEswBCowBQUxrdF92RzBuS2xwNHZ2NWVzTkZ5SVZwN01NWjM4S1RtbXBtVXFZMVEtcXZHajlaZVBXVjA1ZGI5S29LMk5hRm9KenlBb1l0Y2ctSHZETk9kNEZCWVU4cVd5Vjd6eFJDS19sdmlnUy04WVRHNWtPTy1nMkFPZUkxRDJjTTBwVWR2SXdQLUNxUFJLVnUSF2M2dXphSjc5RmFTWHdia1BvYm44cUE4GiJBRk1BR0dvMGt1T3pBYkxIbXNZbkpEWUs4UWs0Wkota0R3EgQ0Njk4GgEzIhgKBmltZ2RpaRIOalpRQldrX3RSOUtGOE0iFwoFZG9jaWQSDkFsa2NCSURPaXRVVlJNIiYKBGVxbGQSHkNnSUlBQkFBT2dRSUFSQUFWY2ZIM1Q1dFRoVENQZyoQZS1qWlFCV2tfdFI5S0Y4TSAEKhcKAXMSEGUtalpRQldrX3RSOUtGOE0YATABQAAYByC_q5KnATABSgoIAhACGAIgAigC</img>
-    <h6>About me:</h6>
-    <footer>
-      <p>Author Info: Cheyenne Navarre is a Sophomore Management and Entrepreneurship Major at the Herbert Business School. She is from Paris,France and currently resides in Miami,Florida. She is a huge Max Verstappen fan and a student in the University’s Web Lab class.</p>
-    </footer>
+  <h1>The Life and Career of Max Verstappen</h1>
+  <p>Max Verstappen is a <strong>four-time Formula 1 World Champion</strong> from the Netherlands and Belgium,
+    racing for <em>Red Bull Racing</em>.</p>
+
+  <h2>Early Life and Career</h2>
+  <p>Max Verstappen was born on September 30, 1997, in Hasselt, Belgium, to a family deeply rooted in motorsport.
+     His father, Jos Verstappen, was a former Formula 1 driver, while his mother, Sophie Kumpen, was a successful
+     kart racer. Growing up in a racing-focused environment, Max began karting very young and quickly showed
+     exceptional talent.</p>
+
+  <h3>Max's Rise to Fame</h3>
+  <p>After success in junior categories, Max debuted at age 17 with Toro Rosso in 2015, making him the
+     <strong>youngest driver in F1 history</strong>. In 2016, he moved to Red Bull and won his first race
+     immediately — becoming the youngest race winner ever. His fearless style made him a star overnight.</p>
+
+  <h3>Most Famous Wins</h3>
+  <ol>
+    <li>2016 Spanish Grand Prix – Youngest winner in F1 history</li>
+    <li>2019 Austrian Grand Prix – Comeback victory at Red Bull’s home race</li>
+    <li>2020 70th Anniversary Grand Prix – Outsmarted Mercedes with strategy</li>
+    <li>2021 Monaco Grand Prix – First Monaco victory</li>
+    <li>2021 Dutch Grand Prix – First home win in front of orange crowd</li>
+    <li>2021 Abu Dhabi Grand Prix – First World Championship</li>
+    <li>2022 Belgian Grand Prix – Won from P14 showing domination</li>
+    <li>2023 Dutch Grand Prix – Ninth straight win</li>
+    <li>2024 Brazilian Grand Prix – Masterclass in mixed conditions</li>
+  </ol>
+
+  <h4>Media Backlash Surrounding Max’s Success</h4>
+  <ul>
+    <li>Aggressive driving style</li>
+    <li>Clashes with other drivers</li>
+    <li>2021 Abu Dhabi GP controversy</li>
+    <li>Bold media comments</li>
+  </ul>
+
+  <h5>Gallery</h5>
+  <img src="https://images.ctfassets.net/5r7zo32fsl1w/4i5jhuWn8GAGIk7dxwfWLU/6410af0b7fdcb5d19de92e7f2d7db3ba/Max_Verstappen_-_Red_Bull.jpg" alt="Max Verstappen at Red Bull" width="300">
+  <img src="https://www.formula1.com/content/fom-website/en/drivers/max-verstappen/_jcr_content/root/responsivegrid/media_container/media0.coreimg.jpeg/1709057514343-max-verstappen.png" alt="Max Verstappen F1 Official Image" width="300">
+  <img src="https://cdn-9.motorsport.com/images/mgl/yK7WO7ZY/s6/max-verstappen-red-bull-racing.jpg" alt="Max Verstappen racing" width="300">
+
+  <h5>More About Verstappen</h5>
+  <a href="https://www.redbullracing.com" target="_blank">Red Bull Racing Website</a><br>
+  <a href="https://www.formula1.com/en/drivers/max-verstappen.html" target="_blank">Max Verstappen F1 Profile</a>
+
+  <h6>About Me</h6>
+  <footer>
+    <p>Cheyenne Navarre is a Sophomore Management & Entrepreneurship Major at
+       the University of Miami. She is from Paris, France and currently lives in Miami, Florida.
+       She is a huge Max Verstappen fan and a proud student in Web Lab.</p>
+  </footer>
+
+</body>
+</html>
